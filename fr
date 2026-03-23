@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   
+</head>
+<body>
+ <form>
+   <div class="caixa principal">
+
+           <div class="caixa1 ">
+             <label>primeiro nome</label>
+
+
+            
+
+           </div>
+           <input type="text">
+
+           <div class="caixa2 ">
+            <label>segundo nome</label>
+
+
+            
+          </div>
+          <input type="text">
+
+
+
+
+
+   </div>
+ </form>
+</body>
+
+</html>
