@@ -100,13 +100,67 @@ COM BOTÂO
 
      <button type="submit">enviar</button><button type="reset">resetar</button>
    </div>
-
-
     </form>
+</body>
+</html>
 
 
 
 
 
+aperfeiçoado 
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form>
+        <h1>formulario</h1>
+        <div class="caixa-principal">
+
+<div class="caixa1">
+    <label>primeiro nome:</label>
+    <input type="text">
+</div>
+
+<div class="caixa2">
+    <label>segundo nome:</label>
+    <input type="text">
+</div>
+
+<div class="caixa3">
+    <label>gmail:</label>
+    <input type="text">
+</div>
+
+<div class="caixa4">
+    <label>idade:</label>
+    <input type="number">
+</div>
+
+<div class="caixa5">
+    <label>numero de telefone:</label>
+    <input type="number">
+</div>
+
+<div class="caixa6">
+    <label>cpf:</label>
+    <input type="number">
+</div>
+
+<div class="caixa7">
+    <label>rg:</label>
+    <input type="number">
+</div>
+          <div class="botao"><button type="submit">enviar</button> <button type="reset">resetar</button> </div>
+        </div>
 </body>
 </html>
